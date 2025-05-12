@@ -13,7 +13,6 @@
 <img src="https://skillicons.dev/icons?i=graphql" width="60" />
 <img src="https://skillicons.dev/icons?i=ts" width="60" />
 <img src="https://skillicons.dev/icons?i=js" width="60" />
-<img src="https://skillicons.dev/icons?i=render" width="60" />
 <img src="https://skillicons.dev/icons?i=firebase" width="60" />
 <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
 <img src="https://skillicons.dev/icons?i=figma" width="60" />
